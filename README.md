@@ -3,6 +3,15 @@ Real-Estate-Market-Transaction-Analysis-using-SQL
 Project Overview
 This project analyzes real estate transactions using SQL to uncover pricing trends, buyer behavior, housing supply, affordability, and investment patterns.
 
+Objectives
+- Explore real estate transaction data
+- Clean and validate the dataset
+- Analyze market trends
+- Identify buyer behavior
+- Study housing supply
+- Evaluate affordability
+- Generate business insights
+
 The project follows a complete data analytics workflow:
 
 - Data Exploration
